@@ -7,4 +7,4 @@ Visualises the progress of a linear regression function.
 - Processing
 - Java
 - AI
-- Datas visualization
+- Data visualization
