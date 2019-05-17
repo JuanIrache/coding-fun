@@ -9,3 +9,5 @@ Play with the 2 first sliders to create dancing patterns. The first one controls
 - P5js
 - Creative coding
 - Javascript
+
+Try it [here](https://juanirache.github.io/coding-fun/dancing-sliders/)

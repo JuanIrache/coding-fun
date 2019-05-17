@@ -9,3 +9,5 @@ Creates random binary trees and creates a simple visualisation. Inspired by http
 - Creative coding
 - P5js
 - JavaScript
+
+Try it [here](https://juanirache.github.io/coding-fun/binary-tree-visualisation/)
