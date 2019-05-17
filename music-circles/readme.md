@@ -11,3 +11,5 @@ Experiment with html canvas and npm image/sound modules: Howler and paper. Based
 - Audio
 - Creative coding
 - Interactivity
+
+Try it [here](https://juanirache.github.io/coding-fun/music-circles/)

@@ -9,3 +9,5 @@ Genetic algorithm testing wiht the classing travelling salesman problem. Based o
 - Creative coding
 - P5js
 - JavaScript
+
+Try it [here](https://juanirache.github.io/coding-fun/travelling-salesman-ai/)
